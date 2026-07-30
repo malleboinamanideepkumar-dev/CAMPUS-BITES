@@ -527,9 +527,10 @@ border-top:1px solid rgba(255,180,0,.12);
 
 .footer-content img{
 
-width:90px;
-margin:auto;
-margin-bottom:20px;
+width:180px;
+height:auto;
+display:block;
+margin:0 auto20px;
 
 }
 
